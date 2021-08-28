@@ -1,0 +1,4 @@
+playground/
+config/
+node_modules/
+mongodb-notNeeded.js
